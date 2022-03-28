@@ -1,0 +1,43 @@
+h1{
+    font-family: 'Lilita One', cursive;
+    color: black;
+
+}
+#google_lens{
+    width: 35px;
+    height: 35px;
+}
+p{
+    font-size: 25px;
+}
+.copy_right_footer{
+bottom: 0;
+width: 100%;
+background-color:darkorange;
+color: black;
+text-align: center;
+line-height: 2;
+font-size: 20px;
+font-family: 'Akaya Telivigala', cursive;
+  }
+
+  .image_output{
+      width: 250px;
+      height: 250px;
+  }
+
+  .object1{
+background-color: darkorange;
+border-radius: 25px;
+width: 50%;
+padding: 25px;
+  }
+
+  #conclusion{
+      font-size: 20px;
+      
+  }
+
+  body{
+      background-color: rgb(89, 89, 212);
+  }
